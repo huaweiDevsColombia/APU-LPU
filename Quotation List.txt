@@ -1,0 +1,50 @@
+<h3><i class="fa fa-angle-right"></i> Basic Table Examples</h3>
+<div class="row">
+
+    <div class="col-md-12">
+        <div class="content-panel">
+            <h4><i class="fa fa-angle-right"></i> Basic Table</h4>
+
+            <table id="quotationlist" class = "table-striped">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>SDM TICKET</th>
+                        <th>SITE</th>
+                        <th>PROJECT</th>
+                        <th>REGION</th>
+                        <th>COOPERATOR</th>
+                        <th>CUSTOMER</th>
+                        <th>DESCRIPTION</th>
+                        <th>STATUS</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th></th>
+                        <td>sdm ticket</td>
+                        <td>site</td>
+                        <td>project</td>
+                        <td>region</td>
+                        <td>cooperator</td>
+                        <td>customer</td>
+                        <td>description</td>
+                        <td>status</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th>SDM TICKET</th>
+                        <th>SITE</th>
+                        <th>PROJECT</th>
+                        <th>REGION</th>
+                        <th>COOPERATOR</th>
+                        <th>CUSTOMER</th>
+                        <th>DESCRIPTION</th>
+                        <th>STATUS</th>
+                    </tr>
+                </tfoot>
+            </table>
+        </div>
+    </div>
+</div>
